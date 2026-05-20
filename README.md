@@ -11,19 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.producthunt.com/products/understand-anything?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-understand-anything" target="_blank" rel="noopener noreferrer">
-    <img alt="Understand Anything - Onboard to any codebase in minutes, not weeks | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1146892&theme=light">
-  </a>
-</p>
-
-<p align="center">
-  🚀 We’re live on Product Hunt:
-  <a href="https://www.producthunt.com/products/understand-anything?utm_source=github&utm_medium=readme">
-    check out Understand Anything
-  </a>
-</p>
-
-<p align="center">
   <a href="#-quick-start"><img src="https://img.shields.io/badge/Quick_Start-blue" alt="Quick Start" /></a>
   <a href="https://github.com/Lum1104/Understand-Anything/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="License: MIT" /></a>
   <a href="https://docs.anthropic.com/en/docs/claude-code"><img src="https://img.shields.io/badge/Claude_Code-8A2BE2" alt="Claude Code" /></a>
